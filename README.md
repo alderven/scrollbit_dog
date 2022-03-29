@@ -1,4 +1,4 @@
-# "Dog" project for [Scrollbit](https://shop.pimoroni.com/products/scroll-bit?variant=3090493767690)
+# 🐕 Dog project for [Scrollbit](https://shop.pimoroni.com/products/scroll-bit?variant=3090493767690)
 ![](https://raw.githubusercontent.com/alderven/scrollbit_dog/main/scrollbit_dog.gif)
 
 # Code:
